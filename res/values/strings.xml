@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic theme information -->
+    <string name="app_name">icopk01</string>
+    <string name="theme_title">icopk01</string>
+    <string name="icon_title">icopk01</string>
+    <string name="developer_name">c_hale22</string>
+    <string name="pkg">com.c_hale22.iconpack1</string>
+    <string name="apply_wallpaper">Apply</string>
+    <string name="go_applied">Theme Applied</string>
+    
+   
+    <!-- The feature graphic will appear above the theme description -->
+    <string name="theme_feature">feature</string>
+    
+    <!-- Each theme may have up to 5 preview images -->
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+    
+    <!-- Theme properties -->
+	<string name="authorName">c_hale22</string>
+	<string name="developerName">c_hale22</string>
+	<string name="authorLink">https://play.google.com/store/apps/developer?id=c_hale22</string>
+        
+    <!-- Share Button -->
+    <!-- This is additional text that is attached to your package when sharing the link -->
+    <string name="share_this">Sweet template by JaiThemes </string> 
+   
+    <!-- This (optional) link will appear at the end of the theme description -->
+    <string name="developer_link">https://play.google.com/store/apps/developer?id=c_hale22</string>
+    <string name="theme_description">*A Darker Side of Android* \n Add new life to your Android device with my new Icon pack "Dark Strokes".\n These icons are a dark design but with a burst of colors shining through the middle of the icon and fading to dark towards the edge of the icon. \n</string>
+    	
+	<!-- Icon Catergories Tabs -->
+	<string name="icon1">Latest and greatest Icons</string>
+    <string name="icon2">System Icons</string>
+    <string name="icon3">Play Icons</string>
+    <string name="icon4">Games Icons</string>
+    <string name="icon5">Misc Icons</string>  
+    
+    <!-- Icon Request data -->
+    <string name="email_subject">Icon Requests</string>
+    <string name="email_text">Here are the icons scanned from my phone</string>
+    <string name="request_email_addr">mail.chale@gmail.com</string>
+    <string name="send_email">Sending my request and my soul</string>
+    <string name="begin_activity_scan">Begin Icon Request Activity</string>
+    <string name="scan_note">By pressing this button this application will scan your phone for installed activities (apps) and compile a text file as well as the applications icons and create a zip file to send us, thus allowing us to fulfil your request</string>
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Tab -->
+	<string name="tab4">About</string>
+	<string name="author"> This application is brought to you by JaiRomeo on behalf of DesignRifts</string>
+	<string name="credit"> Credit also goes out to those that helped shape this project and/or fix its bugs.\n
+	    Shout out to Jai Romeo, Lue G (Klinster), Nick Miltner, Loren (La Barba/Beard) Brad Bertoltti, Tim Austin, Dustin B, Jsin Jaques, Kevin Beegan, Kurt Colbeck, and Nathaniel Webb</string>
+	<string name="just_some_bullshit"> Enjoy!!</string>   
+</resources>

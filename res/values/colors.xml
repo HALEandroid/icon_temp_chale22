@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar">#ff353535</color>
+    <color name="background_window">#FFe9e9e9</color>
+    <color name="background_tabs">#FFe9e9e9</color>
+    <color name="card_unpressed">#FFe9e9e9</color>
+    <color name="card_pressed">#FF939aad</color>
+    <color name="card_text">#FF000000</color>
+    <color name="Button_Off">#FF999999</color>
+    <color name="Button_On">#FF00d2ff</color>
+    <color name="smart_date">#FF3F9FE0</color>
+    <color name="smart_hour">#FF3F9FE0</color>
+    <color name="smart_ampm">#FF3F9FE0</color>
+</resources>
